@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+.header {
+    color: white;
+    background-color: #1F2937;
+    padding: 64px;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
