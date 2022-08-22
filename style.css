@@ -97,5 +97,11 @@ a {
     display: flex;
     justify-content: space-between;
     color: #f9faf8;
-    font-size: 24px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 32px;
 }
