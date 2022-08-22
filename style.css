@@ -12,6 +12,19 @@ body {
     align-items: center;
 }
 
+.bottom {
+    margin: 64px 0;
+}
+
+.bottom button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 8px 32px;
+    font-weight: 1000;
+    border: none;
+    border-radius: 10px;
+    margin: 8px 0;
+}
 .main_title {
     font-weight: 800;
     font-size: 48px;
@@ -88,6 +101,7 @@ a {
     text-align: right;
     font-weight: bold;
     padding: 8px 0;
+    font-size: 20px;
 }
 
 .action {
@@ -116,7 +130,7 @@ a {
 .bottom button,
 .action,
 .action button {
-    border-radius: 12px;
+    border-radius: 8px;
 }
 
 .footer {
