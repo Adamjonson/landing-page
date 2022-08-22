@@ -99,6 +99,26 @@ a {
     color: #f9faf8;
 }
 
+.action .text .title{
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.action button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-color: white;
+    font-weight: 1000;
+    padding: 0 32px;
+    margin: 10px;
+}
+
+.bottom button,
+.action,
+.action button {
+    border-radius: 12px;
+}
+
 .footer {
     background-color: #1F2937;
     color: #f9faf8;
